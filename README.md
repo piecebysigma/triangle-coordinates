@@ -6,4 +6,8 @@ But maybe this \*is* a variant of Barycentric Coordinates, I don't know, I'm not
 
 You can play with the coordinates here: https://tsoding.github.io/triangle-coordinates/
 
+**UPD.** [@laurentiuNiculae](https://github.com/laurentiuNiculae/)
+discovered that this might be something related to
+[Duffy transform](https://finite-element.github.io/1_quadrature.html#extending-legendre-gausz-quadrature-to-two-dimensions)
+
 ![notes](./notes.png)
