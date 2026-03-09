@@ -4,4 +4,6 @@ Triangle Coordinates system I came up with for my Color Picker. It feels like it
 
 But maybe this is a variant of Barycentric Coordinates, I don't know, I'm not good at math.
 
+You can play with the coordinates here: https://tsoding.github.io/triangle-coordinates/
+
 ![notes](./notes.png)
